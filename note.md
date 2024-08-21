@@ -14,6 +14,6 @@ Branch
 - git log: lấy ra lịch sử commit
 - git log --oneline
 - git checkout <id commit (trong git log)>: quay trở về thời điểm commit trong quá khứ
-- git checkout <branch_name (VD: master)>: quay trở lại thời điểm hiện tại
+- git checkout <branch_name (VD: master)>: quay trở lại thời điểm hiện tại/ hoặc di chuyển giữa các nhánh
 - git branch: xem nhánh hiện tại
 - git branch -b <branch_name>
