@@ -2,6 +2,8 @@
 Repository (Repo)
 Branch
 Conflict
+Local
+Remote
 
 
 # Commands
@@ -20,3 +22,4 @@ Conflict
 - git branch -b <branch_name> : tạo ra nhánh mới
 - git merge <branch_name>: gộp branch
 - git branch -d <branch_name>: xóa branch
+- git push <link repo> <branch_name>: đẩy lên repo trên github
