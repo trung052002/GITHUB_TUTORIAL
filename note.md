@@ -7,7 +7,6 @@ Remote
 
 
 # Commands
-
 - git init: khởi tạo repo
 - git status: lấy ra tình trạng các file trong repo
 - git add + (files_name): thêm những files chuyển bị được lưu
@@ -22,4 +21,6 @@ Remote
 - git branch -b <branch_name> : tạo ra nhánh mới
 - git merge <branch_name>: gộp branch
 - git branch -d <branch_name>: xóa branch
-- git push <link repo> <branch_name>: đẩy lên repo trên github
+
+- git push <link_repo> <branch_name>: đẩy lên repo trên github
+- git remote add <ten_alias> <link_repo>: gán link repo bằng 1 cái tên, nên lúc sau chỉ cần git push <ten_alias> <branch_name>
