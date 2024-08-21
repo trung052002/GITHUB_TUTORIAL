@@ -24,3 +24,6 @@ Remote
 
 - git push <link_repo> <branch_name>: đẩy lên repo trên github
 - git remote add <ten_alias> <link_repo>: gán link repo bằng 1 cái tên, nên lúc sau chỉ cần git push <ten_alias> <branch_name>
+- git push -u origin <branch_name>: đẩy branch lên remote
+- git fetch origin: lấy các branch trên remote về
+- git checkout -b <local_branch_name> origin/<remote_branch>: gán remote branch thành 1 local branch
