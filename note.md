@@ -16,4 +16,4 @@ Branch
 - git checkout <id commit (trong git log)>: quay trở về thời điểm commit trong quá khứ
 - git checkout <branch_name (VD: master)>: quay trở lại thời điểm hiện tại
 - git branch: xem nhánh hiện tại
-- git branch -b <branch_name>
+- git branch -b <branch_name> : tạo ra nhánh mới
