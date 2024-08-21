@@ -17,3 +17,5 @@ Branch
 - git checkout <branch_name (VD: master)>: quay trở lại thời điểm hiện tại/ hoặc di chuyển giữa các nhánh
 - git branch: xem nhánh hiện tại
 - git branch -b <branch_name> : tạo ra nhánh mới
+- git merge <branch_name>: gộp branch
+- git branch -d <branch_name>: xóa branch
